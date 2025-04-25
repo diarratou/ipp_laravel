@@ -1,5 +1,5 @@
 <?php
-
+echo"bonjour tout le monde";
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
